@@ -1,0 +1,5 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:18 Initializing Chrome Driver
+[32mINFO    [0m BaseClass:BasePage.py:19 Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+[32mINFO    [0m BaseClass:BasePage.py:77 WebElement found with locatorValue: Form and locatorType: link
+[32mINFO    [0m BaseClass:BasePage.py:101 Clicked on WebElement with locatorValue: Form and locatorType: link
+[32mINFO    [0m BaseClass:BasePage.py:54 WebElement found with locatorValue: h2 and locatorType: tag

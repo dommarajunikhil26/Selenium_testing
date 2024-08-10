@@ -120,3 +120,25 @@
 10/08/24 06:43:18 PM Saturday - BaseClass - INFO : Scrolled to WebElement with locatorValue: btnContactUs and locatorType: id
 10/08/24 06:43:18 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: btnContactUs and locatorType: id
 10/08/24 06:43:19 PM Saturday - BaseClass - INFO : Clicked on WebElement with locatorValue: btnContactUs and locatorType: id
+10/08/24 06:52:49 PM Saturday - WebDriverClass - INFO : Initializing Chrome Driver
+10/08/24 06:52:53 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 06:52:54 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: Form and locatorType: link
+10/08/24 06:52:56 PM Saturday - BaseClass - INFO : Clicked on WebElement with locatorValue: Form and locatorType: link
+10/08/24 06:52:56 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: h2 and locatorType: tag
+10/08/24 06:53:02 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: name and locatorType: id
+10/08/24 06:53:02 PM Saturday - BaseClass - INFO : Sent the text: admin on WebElement with locatorValue: name and locatorType: id
+10/08/24 06:53:02 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: email and locatorType: id
+10/08/24 06:53:03 PM Saturday - BaseClass - INFO : Sent the text: admin@gmail.com on WebElement with locatorValue: email and locatorType: id
+10/08/24 06:53:03 PM Saturday - BaseClass - INFO : WebElements found with locatorValue: g and locatorType: id
+10/08/24 06:53:04 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: message and locatorType: id
+10/08/24 06:53:04 PM Saturday - BaseClass - INFO : Sent the text: Demo app on WebElement with locatorValue: message and locatorType: id
+10/08/24 06:53:04 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: tech and locatorType: id
+10/08/24 06:53:04 PM Saturday - BaseClass - INFO : Sent the text: admin full stack technology on WebElement with locatorValue: tech and locatorType: id
+10/08/24 06:53:04 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: captcha_image and locatorType: id
+10/08/24 06:53:04 PM Saturday - BaseClass - INFO : Got the text SGH456 from WebElement with locatorValue: captcha_image and locatorType: id
+10/08/24 06:53:04 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: captcha and locatorType: id
+10/08/24 06:53:04 PM Saturday - BaseClass - INFO : Sent the text: SGH456 on WebElement with locatorValue: captcha and locatorType: id
+10/08/24 06:53:04 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: btnContactUs and locatorType: id
+10/08/24 06:53:05 PM Saturday - BaseClass - INFO : Scrolled to WebElement with locatorValue: btnContactUs and locatorType: id
+10/08/24 06:53:05 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: btnContactUs and locatorType: id
+10/08/24 06:53:06 PM Saturday - BaseClass - INFO : Clicked on WebElement with locatorValue: btnContactUs and locatorType: id
