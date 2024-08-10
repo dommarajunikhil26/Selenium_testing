@@ -55,6 +55,17 @@ class BaseClass:
         except:
             self.log.error(f"WebElement not found with locatorValue: {locatorValue} and locatorType: {locatorType}")
         return element
+    
+    def getWebElements(self, locatorValue, locatorType="id"):
+        element = None
+        try:
+            locatorType = locatorType.lower()
+            locatorByType = self.getLocatorType(locatorType)
+            element = self.driver.find_elements(locatorByType, locatorValue)
+            self.log.info(f"WebElements found with locatorValue: {locatorValue} and locatorType: {locatorType}")
+        except:
+            self.log.error(f"WebElements not found with locatorValue: {locatorValue} and locatorType: {locatorType}")
+        return element
 
     def waitForElement(self, locatorValue, locatorType="id"):
         element = None
@@ -67,7 +78,19 @@ class BaseClass:
         except:
             self.log.error(f"WebElement not found with locatorValue: {locatorValue} and locatorType: {locatorType}")
             print_stack()
-
+        return element
+    
+    def waitForElements(self, locatorValue, locatorType="id"):
+        element = None
+        try:
+            locatorType = locatorType.lower()
+            locatorByType = self.getLocatorType(locatorType)
+            wait = WebDriverWait(self.driver, 25, 1, ignored_exceptions=[ElementNotVisibleException, NoSuchElementException])
+            element = wait.until(EC.presence_of_all_elements_located((locatorByType, locatorValue)))
+            self.log.info(f"WebElement found with locatorValue: {locatorValue} and locatorType: {locatorType}")
+        except:
+            self.log.error(f"WebElement not found with locatorValue: {locatorValue} and locatorType: {locatorType}")
+            print_stack()
         return element
     
     def clickElement(self, locatorValue, locatorType="id"):
