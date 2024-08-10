@@ -1,1 +1,29 @@
 10/08/24 02:52:31 PM Saturday - <module> - INFO : Web Page Launched
+10/08/24 03:19:20 PM Saturday - BaseClass - INFO : Web page with url: http://www.dummypoint.com failed to launch
+10/08/24 03:23:51 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 03:28:30 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 03:31:21 PM Saturday - WebDriverClass - INFO : Initializing Safari Driver
+10/08/24 03:31:24 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 03:55:23 PM Saturday - WebDriverClass - INFO : Initializing Safari Driver
+10/08/24 03:55:26 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 03:55:26 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: user_input and locatorType: id
+10/08/24 04:34:07 PM Saturday - WebDriverClass - INFO : Initializing Chrome Driver
+10/08/24 04:34:12 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 04:34:12 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: user_input and locatorType: id
+10/08/24 04:40:18 PM Saturday - WebDriverClass - INFO : Initializing Chrome Driver
+10/08/24 04:40:22 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 04:40:22 PM Saturday - BaseClass - INFO : WebElement not found with locatorValue: user_input and locatorType: id
+10/08/24 04:41:59 PM Saturday - WebDriverClass - INFO : Initializing Chrome Driver
+10/08/24 04:42:03 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 04:42:03 PM Saturday - BaseClass - INFO : WebElement not found with locatorValue: user_input and locatorType: id
+10/08/24 04:43:36 PM Saturday - WebDriverClass - INFO : Initializing Chrome Driver
+10/08/24 04:43:40 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 04:43:40 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: user_input and locatorType: id
+10/08/24 04:59:10 PM Saturday - WebDriverClass - INFO : Initializing Chrome Driver
+10/08/24 04:59:15 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 04:59:15 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: user_input and locatorType: id
+10/08/24 04:59:16 PM Saturday - BaseClass - INFO : Sent the text: admin on WebElement with locatorValue: user_input and locatorType: id
+10/08/24 05:02:15 PM Saturday - WebDriverClass - INFO : Initializing Chrome Driver
+10/08/24 05:02:20 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 05:02:45 PM Saturday - BaseClass - ERROR : WebElement not found with locatorValue: user_inpu and locatorType: id
+10/08/24 05:02:45 PM Saturday - BaseClass - ERROR : Unable to send the text: admin on WebElement with locatorValue: user_inpu and locatorType: id
