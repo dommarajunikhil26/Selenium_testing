@@ -1,0 +1,17 @@
+[32mINFO    [0m BaseClass:BasePage.py:87 WebElement found with locatorValue: name and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:128 Sent the text: admin on WebElement with locatorValue: name and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:87 WebElement found with locatorValue: email and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:128 Sent the text: admin@gmail.com on WebElement with locatorValue: email and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElements found with locatorValue: g and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:87 WebElement found with locatorValue: message and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:128 Sent the text: Demo app on WebElement with locatorValue: message and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:87 WebElement found with locatorValue: tech and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:128 Sent the text: admin full stack technology on WebElement with locatorValue: tech and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:87 WebElement found with locatorValue: captcha_image and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:141 Got the text SGH456 from WebElement with locatorValue: captcha_image and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:87 WebElement found with locatorValue: captcha and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:128 Sent the text: SGH456 on WebElement with locatorValue: captcha and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:87 WebElement found with locatorValue: btnContactUs and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:168 Scrolled to WebElement with locatorValue: btnContactUs and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:87 WebElement found with locatorValue: btnContactUs and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:115 Clicked on WebElement with locatorValue: btnContactUs and locatorType: id

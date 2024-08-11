@@ -1,0 +1,9 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:18 Initializing Chrome Driver
+[32mINFO    [0m BaseClass:BasePage.py:22 Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+[32mINFO    [0m BaseClass:BasePage.py:87 WebElement found with locatorValue: user_input and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:128 Sent the text: admin on WebElement with locatorValue: user_input and locatorType: id
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElements found with locatorValue: radio and locatorType: name
+[32mINFO    [0m BaseClass:BasePage.py:72 WebElements found with locatorValue: checkbox and locatorType: name
+[32mINFO    [0m BaseClass:BasePage.py:87 WebElement found with locatorValue: multiselect and locatorType: id
+[1m[31mERROR   [0m BaseClass:BasePage.py:89 WebElement not found with locatorValue: submitButton and locatorType: id
+[1m[31mERROR   [0m BaseClass:BasePage.py:117 Unable to clikc on WebElement with locatorValue: submitButton and locatorType: id
