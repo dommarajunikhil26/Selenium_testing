@@ -142,3 +142,28 @@
 10/08/24 06:53:05 PM Saturday - BaseClass - INFO : Scrolled to WebElement with locatorValue: btnContactUs and locatorType: id
 10/08/24 06:53:05 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: btnContactUs and locatorType: id
 10/08/24 06:53:06 PM Saturday - BaseClass - INFO : Clicked on WebElement with locatorValue: btnContactUs and locatorType: id
+10/08/24 07:11:07 PM Saturday - WebDriverClass - INFO : Initializing Chrome Driver
+10/08/24 07:11:11 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 07:11:12 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: Form and locatorType: link
+10/08/24 07:11:15 PM Saturday - BaseClass - INFO : Clicked on WebElement with locatorValue: Form and locatorType: link
+10/08/24 07:11:15 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: h2 and locatorType: tag
+10/08/24 07:11:20 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: name and locatorType: id
+10/08/24 07:11:21 PM Saturday - BaseClass - INFO : Sent the text: admin on WebElement with locatorValue: name and locatorType: id
+10/08/24 07:14:30 PM Saturday - WebDriverClass - INFO : Initializing Chrome Driver
+10/08/24 07:14:35 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 07:14:36 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: Form and locatorType: link
+10/08/24 07:14:39 PM Saturday - BaseClass - INFO : Clicked on WebElement with locatorValue: Form and locatorType: link
+10/08/24 07:14:39 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: h2 and locatorType: tag
+10/08/24 07:14:44 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: name and locatorType: id
+10/08/24 07:14:45 PM Saturday - BaseClass - INFO : Sent the text: admin on WebElement with locatorValue: name and locatorType: id
+10/08/24 07:15:11 PM Saturday - BaseClass - ERROR : WebElement not found with locatorValue: emai and locatorType: id
+10/08/24 07:15:11 PM Saturday - BaseClass - ERROR : Unable to send the text: admin@gmail.com on WebElement with locatorValue: emai and locatorType: id
+10/08/24 07:16:32 PM Saturday - WebDriverClass - INFO : Initializing Chrome Driver
+10/08/24 07:16:37 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 07:16:38 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: Form and locatorType: link
+10/08/24 07:16:41 PM Saturday - BaseClass - INFO : Clicked on WebElement with locatorValue: Form and locatorType: link
+10/08/24 07:16:41 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: h2 and locatorType: tag
+10/08/24 07:16:46 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: name and locatorType: id
+10/08/24 07:16:47 PM Saturday - BaseClass - INFO : Sent the text: admin on WebElement with locatorValue: name and locatorType: id
+10/08/24 07:17:12 PM Saturday - BaseClass - ERROR : WebElement not found with locatorValue: emai and locatorType: id
+10/08/24 07:17:12 PM Saturday - BaseClass - ERROR : Unable to send the text: admin@gmail.com on WebElement with locatorValue: emai and locatorType: id
