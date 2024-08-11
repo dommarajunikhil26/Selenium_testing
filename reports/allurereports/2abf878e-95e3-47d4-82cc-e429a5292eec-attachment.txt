@@ -1,2 +1,0 @@
-[32mINFO    [0m BaseClass:BasePage.py:80 WebElement found with locatorValue: name and locatorType: id
-[32mINFO    [0m BaseClass:BasePage.py:116 Sent the text: admin on WebElement with locatorValue: name and locatorType: id

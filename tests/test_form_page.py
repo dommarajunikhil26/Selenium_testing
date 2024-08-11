@@ -6,7 +6,7 @@ from base.BasePage import BaseClass
 from pages.FormPage import FormPage
 
 @pytest.mark.usefixtures("setUpClass", "setUpMethod")
-class FormPageTest(unittest.TestCase):
+class TestFormPage(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
     def setUpClassObjects(self):

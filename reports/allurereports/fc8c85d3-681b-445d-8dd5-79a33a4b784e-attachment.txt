@@ -1,4 +1,0 @@
-[32mINFO    [0m BaseClass:BasePage.py:80 WebElement found with locatorValue: name and locatorType: id
-[32mINFO    [0m BaseClass:BasePage.py:117 Sent the text: admin on WebElement with locatorValue: name and locatorType: id
-[1m[31mERROR   [0m BaseClass:BasePage.py:82 WebElement not found with locatorValue: emai and locatorType: id
-[1m[31mERROR   [0m BaseClass:BasePage.py:119 Unable to send the text: admin@gmail.com on WebElement with locatorValue: emai and locatorType: id
