@@ -7,3 +7,12 @@
 10/08/24 08:06:03 PM Saturday - BaseClass - INFO : Sent the text: admin on WebElement with locatorValue: name and locatorType: id
 10/08/24 08:06:29 PM Saturday - BaseClass - ERROR : WebElement not found with locatorValue: emai and locatorType: id
 10/08/24 08:06:33 PM Saturday - BaseClass - ERROR : Unable to send the text: admin@gmail.com on WebElement with locatorValue: emai and locatorType: id
+10/08/24 08:06:46 PM Saturday - WebDriverClass - INFO : Initializing Chrome Driver
+10/08/24 08:06:50 PM Saturday - BaseClass - INFO : Webpage launched with url: http://www.dummypoint.com/seleniumtemplate.html
+10/08/24 08:06:50 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: user_input and locatorType: id
+10/08/24 08:06:51 PM Saturday - BaseClass - INFO : Sent the text: admin on WebElement with locatorValue: user_input and locatorType: id
+10/08/24 08:06:51 PM Saturday - BaseClass - INFO : WebElements found with locatorValue: radio and locatorType: name
+10/08/24 08:06:51 PM Saturday - BaseClass - INFO : WebElements found with locatorValue: checkbox and locatorType: name
+10/08/24 08:06:52 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: multiselect and locatorType: id
+10/08/24 08:06:52 PM Saturday - BaseClass - INFO : WebElement found with locatorValue: submitbutton and locatorType: id
+10/08/24 08:06:53 PM Saturday - BaseClass - INFO : Clicked on WebElement with locatorValue: submitbutton and locatorType: id
